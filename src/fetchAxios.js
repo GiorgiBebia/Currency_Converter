@@ -13,7 +13,6 @@ export const fetchAxiosCurrency = async ({
       to: toCurrency,
     },
   });
-  console.log(response);
   const data = response.data;
   setConverted(data.rates[toCurrency]);
 };
