@@ -1,5 +1,5 @@
 # React App > Currency Converter
 
-## Bootstrap
+## Tailwind
 
 ## Axios
